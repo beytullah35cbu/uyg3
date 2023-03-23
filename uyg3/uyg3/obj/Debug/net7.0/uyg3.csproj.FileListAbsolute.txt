@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/uyg3/uyg3/obj/Debug/net7.0/uyg3.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/uyg3/uyg3/obj/Debug/net7.0/uyg3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/uyg3/uyg3/obj/Debug/net7.0/uyg3.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/uyg3/uyg3/obj/Debug/net7.0/uyg3.AssemblyInfo.cs
+/Users/beytullah/Projects/uyg3/uyg3/obj/Debug/net7.0/uyg3.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/uyg3/uyg3/bin/Debug/net7.0/uyg3
+/Users/beytullah/Projects/uyg3/uyg3/bin/Debug/net7.0/uyg3.deps.json
+/Users/beytullah/Projects/uyg3/uyg3/bin/Debug/net7.0/uyg3.runtimeconfig.json
+/Users/beytullah/Projects/uyg3/uyg3/bin/Debug/net7.0/uyg3.dll
+/Users/beytullah/Projects/uyg3/uyg3/bin/Debug/net7.0/uyg3.pdb
+/Users/beytullah/Projects/uyg3/uyg3/obj/Debug/net7.0/uyg3.dll
+/Users/beytullah/Projects/uyg3/uyg3/obj/Debug/net7.0/refint/uyg3.dll
+/Users/beytullah/Projects/uyg3/uyg3/obj/Debug/net7.0/uyg3.pdb
+/Users/beytullah/Projects/uyg3/uyg3/obj/Debug/net7.0/uyg3.genruntimeconfig.cache
+/Users/beytullah/Projects/uyg3/uyg3/obj/Debug/net7.0/ref/uyg3.dll
